@@ -1,1 +1,21 @@
 @charset "UTF-8";
+
+body {
+	font-family: "Lucida Console", "Courier New", monospace;
+	font-size: 1em;
+	font-weight: 400;
+}
+
+h1 {
+	color: #a63030;
+}
+
+.Botao1 {
+	text-decoration: none;
+	background-color: #a63030;
+	padding: 5px 10px 5px 10px;
+	color: #fff;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 5px;
+}

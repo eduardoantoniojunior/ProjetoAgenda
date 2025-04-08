@@ -4,7 +4,7 @@
 <html lang="pt-br">
 <head>
 <meta charset="UTF-8">
-<title>Agenda de Contatos</title>
+<title>Insert title here</title>
 <link rel="icon" href="img/phone">
 <link rel="stylesheet" href="style.css">
 </head>
